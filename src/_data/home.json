@@ -18,8 +18,8 @@
         {
             "id": "keywordtext",
             "link": "/#keywordtext", 
-            "text": "Info", 
-            "title": "Info", 
+            "text": "About", 
+            "title": "About", 
             "type": "keywordtext",
             "image": "/svg/Code Version Control.svg", 
             "imagePosition": "right",
