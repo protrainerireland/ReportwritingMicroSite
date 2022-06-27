@@ -54,8 +54,8 @@ module.exports = {
 
             let courses = topic.map(course=>{
                 return `<div><a href="/saved_searches/${slugify(course.location)}/${slugify(course.keyword)}/${slugify(course.title)}.html">${course.title}</a></div>`;
-            });a
-            let card = `<div class="card">
+            });
+                        let card = `<div class="card">
                             <div class="card-header" id="headingOne">
                                 <h2 class="mb-0">
                                     <button class="btn btn-block text-left" type="button" data-toggle="collapse" 
