@@ -3,9 +3,10 @@
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "ReportWritingTraining.ie" 
+        "name": "Professional Training Solutions Ltd" ,
+        "department": "ReportWritingTraining.ie" 
     },
-    "url": "reportwritingtraining.ie",
+    "url": "https://reportwritingtraining.ie",
     "logo": "",
     "address": {
         "line1": "Building 6500E", 
