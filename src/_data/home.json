@@ -10,7 +10,7 @@
             "id": "banner", 
             "link": "no", 
             "type": "banner", 
-            "title": "Excel Training Courses Ireland", 
+            "title": "Report Writing Training Courses Ireland", 
             "subtitle": "Contact us for all your Report Writing training requirements", 
             "background": "img/ground@-min.png",
             "image": "svg/onlineclass.svg"
@@ -46,11 +46,11 @@
             "text": "What to Expect", 
             "title": "What to Expect", 
             "type": "summary",
-            "image": "img/coding.jpg", 
+            "image": "", 
             "imagePosition": "right",
             "imageWidth": 300, 
             "content":{
-                "title": "What to expect from one of our Facilitation Skills courses?",
+                "title": "What to expect from one of our Reporting Skills courses?",
                 "text":[
                     "<a href=/courses>Our programmes</a> are designed for people who regularly write reports as part of their job. It will help to refresh their existing skills and introduce some new techniques and concepts. The value of the session is enhanced if the participants bring some sample documents.  Participants should be familiar with the basics of report writing and have created a number of reports.  Our courses are also suitable for more experienced report writers who may be self-taught, never having received any formal training.",
                     "Having completed our training the participants will:"
