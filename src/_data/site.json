@@ -8,6 +8,7 @@
     },
     "url": "https://reportwritingtraining.ie",
     "logo": "",
+    "description": "This  course is a focused, hands-on programme aimed at ensuring participants efficiently gain the skills they need to be more effective in their day to day roles.",
     "address": {
         "line1": "Building 6500E", 
         "line2": "Cork Airport Business Park", 
@@ -33,8 +34,8 @@
         "postcode": "V94 CP26"
     },
     "email": "info@professional.ie", 
-    "phone": "+353 1 6627700",
-    "phoneDublin": "+353 21 4319010",
+    "phone": "+353 21 4319010",
+    "phoneDublin": "+353 1 6627700",
     "phoneLimerick": "+353 61 311982", 
     "location": {
         "lat": 51.852587, 
